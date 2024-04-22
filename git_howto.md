@@ -43,9 +43,3 @@ git log --oneline --graph
 ```sh 
 git branch -d <branch_name>
 ```
-Слияние веток.
-branch_new1
-branch_new2
-branch_new3
-branch_new4
-1
